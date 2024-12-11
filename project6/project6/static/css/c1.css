@@ -1,0 +1,36 @@
+body{
+    background-color: brown;
+}
+h1{
+    margin: auto;
+    background-color: white;
+    border: 2px solid yellow;
+    border-radius: 4px;
+    width: 600px;
+    padding-left: 50px;
+    box-sizing: border-box;
+}
+
+.outer{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    margin-top: 10px;
+    gap: 4px;
+    
+}
+
+img{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+}
+.out2{
+    height: 150px;
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 4px;
+    margin-top: 14px;
+    background-color: aliceblue;
+}
