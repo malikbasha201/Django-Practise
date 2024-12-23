@@ -1,0 +1,17 @@
+.outer{
+    border: 2px solid black;
+    gap: 4px;
+    display: flex;
+    
+}
+
+.inner{
+    border: 2px solid black;
+    height: 400px;
+    width: 400px;
+}
+
+.inner>img{
+    height: inherit;
+    width: inherit;
+}
